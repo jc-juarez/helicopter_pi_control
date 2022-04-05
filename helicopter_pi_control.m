@@ -1,4 +1,5 @@
 % Tecnológico de Monterrey
+% Juan Carlos Juárez. A00824524.
 % Computerized Control
 % Homework - Helicopter with PI Control
 % PI Control with three Rules: Bilinear, Forward Integration and Backward Integration
